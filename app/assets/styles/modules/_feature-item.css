@@ -24,9 +24,10 @@
         text-align: center;
 
         @mixin atSmall {
+        font-size: 1.875rem;
         text-align: left;
         margin-top: 1em;
-        font-size: 3rem;
+        
         }
     }
 }
